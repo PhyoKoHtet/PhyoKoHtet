@@ -1,4 +1,7 @@
 ## Hi there 👋
+# 👋 About Me:
+
+Hi, I'm Phyo Ko Htet — a software engineer based in Tokyo, Japan. Nothing special, just a regular developer who enjoys building things with code, learning new technologies, and solving problems one commit at a time.
 
 <!--
 **PhyoKoHtet/PhyoKoHtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
