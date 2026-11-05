@@ -1,5 +1,6 @@
 ## Hi there 👋
-# 👋 About Me:Software engineer based in Tokyo. Nothing special — I just write code.
+# 👋 About Me:
+Hi, I'm Phyo Ko Htet — a software engineer based in Tokyo, Japan. Nothing special, just a regular developer who enjoys building things with code, learning new technologies, and solving problems one commit at a time😬.
 ## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
