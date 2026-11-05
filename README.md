@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 About Me:
+# 👋 About Me:Software engineer based in Tokyo. Nothing special — I just write code.
 ## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,7 +13,6 @@
 ![Swift](https://img.shields.io/badge/swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-Hi, I'm Phyo Ko Htet — a software engineer based in Tokyo, Japan. Nothing special, just a regular developer who enjoys building things with code, learning new technologies, and solving problems one commit at a time.
 
 <!--
 **PhyoKoHtet/PhyoKoHtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
